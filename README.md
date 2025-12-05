@@ -1,4 +1,4 @@
-![Image](/assets/img/porfile.png)
+![Image](/assets/img/profile.png)
 # Data Science Portfolio
 A repository to host my data science projects.
 
