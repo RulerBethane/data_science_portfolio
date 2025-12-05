@@ -1,4 +1,5 @@
-# data_science_portfolio
+![Image](/assets/img/porfile.png)
+# Data Science Portfolio
 A repository to host my data science projects.
 
 ##Education
